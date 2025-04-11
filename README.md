@@ -1,5 +1,5 @@
 # Hello, I'm Mari 👩‍💻  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/mariana-carneiro-573888254/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-carneiro-573888254/)
 
 Sou certificada em cibersegurança pelo Google, com interesse em defesa cibernética, automação e análise de ameaças. Desenvolvi projetos práticos com foco em ambientes SOC, parsing de logs, detecção baseada em MITRE ATT&CK e automação com Python e Linux.
 
