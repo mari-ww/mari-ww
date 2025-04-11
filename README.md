@@ -29,7 +29,7 @@ Atuar como Analista de Segurança (SOC Tier 1), aplicando minhas habilidades té
 ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?&style=for-the-badge&logo=Clojure&logoColor=white)
 
 ## 📜 Certifications
-![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white)
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/b78574ac-fea8-49d8-9f44-3b60161ccc4c/print)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe_(in_progress)-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white)
 
 ## 📁 Projects
