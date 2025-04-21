@@ -21,7 +21,7 @@ Atuar como Analista de Segurança (SOC Tier 1), aplicando minhas habilidades té
 | Criação de regras com Suricata                | [Port Scan Detection](https://github.com/mari-ww/port-scan-suricata)                                     |
 | Parsing de logs + visualização de alertas     | [Log Analysis with ELK Stack](https://github.com/mari-ww/log-analysis-elk-stack)                         |
 | Linux CLI & manipulação de arquivos de log    | Usado em todos os projetos (base operacional)                                                            |
-| Python para automação básica (em progresso)   | [SOC Lab Simulations](https://github.com/mari-ww/soc-lab-simulations)                                    |
+| Detecção prática de ameaças com análise e resposta | [SOC Lab Simulations (3 projetos em 1)](https://github.com/mari-ww/soc-lab-simulations)                  |                               |
 
 
 ---
