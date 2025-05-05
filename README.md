@@ -14,8 +14,8 @@ Atuar como Analista de Segurança (SOC Tier 1), aplicando minhas habilidades té
 
 | Skill                                         | Associated Project                                                                                      |
 |-----------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Análise de incidente (SOC Tier 1)             | [Investigating Suspicious Login](https://github.com/mari-ww/incident-investigation-windows)         |
-| Mapeamento com MITRE ATT&CK                   | [Investigating Suspicious Login](https://github.com/mari-ww/tryhackme-soc-windows-investigation)         |
+| Análise de incidente (SOC Tier 1)             | [Investigating Suspicious Login](https://github.com/mari-ww/incident-investigation-windows)              |
+| Mapeamento com MITRE ATT&CK                   | [Investigating Suspicious Login](https://github.com/mari-ww/incident-investigation-windows)              |
 | Análise de tráfego DNS / detecção de túnel    | [DNS Tunneling Detection](https://github.com/mari-ww/dns-tunneling-detection)                            |
 | Análise de pacotes com Wireshark              | [Brute Force Detection](https://github.com/mari-ww/wireshark-brute-force)                                |
 | Criação de regras com Suricata                | [Port Scan Detection](https://github.com/mari-ww/port-scan-suricata)                                     |
