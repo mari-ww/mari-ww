@@ -1,12 +1,12 @@
 # Hello, I'm Mari 👩‍💻  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-carneiro-573888254/)
 
-Sou certificada em Cibersegurança pelo Google, com foco em defesa cibernética, análise de logs e automação de tarefas SOC com Python e Linux. Criei projetos hands-on voltados à rotina de um analista de segurança (SOC Tier 1), cobrindo investigação, detecção de ameaças e parsing de eventos.
+Estou cursando Ciência da Computação e sou interessada em **Análise de Dados**. Desenvolvo projetos completos de **manipulação de dados, análise exploratória, visualização e dashboards interativos**, utilizando Python, SQL e ferramentas de machine learning.
 
 ---
 
 ## 🎯 Objective  
-Atuar como Analista de Segurança (SOC Tier 1), aplicando minhas habilidades técnicas na detecção e resposta a incidentes.
+Atuar como **Analista de Dados Júnior**, aplicando habilidades em coleta, limpeza, análise e visualização de dados para gerar insights de negócio.
 
 ---
 
@@ -14,38 +14,54 @@ Atuar como Analista de Segurança (SOC Tier 1), aplicando minhas habilidades té
 
 | Skill                                         | Associated Project                                                                                      |
 |-----------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Análise de incidente (SOC Tier 1)             | [Investigating Suspicious Login](https://github.com/mari-ww/incident-investigation-windows)              |
-| Mapeamento com MITRE ATT&CK                   | [Investigating Suspicious Login](https://github.com/mari-ww/incident-investigation-windows)              |
-| Análise de tráfego DNS / detecção de túnel    | [DNS Tunneling Detection](https://github.com/mari-ww/dns-tunneling-detection)                            |
-| Análise de pacotes com Wireshark              | [Brute Force Detection](https://github.com/mari-ww/wireshark-brute-force)                                |
-| Criação de regras com Suricata                | [Port Scan Detection](https://github.com/mari-ww/port-scan-suricata)                                     |
-| Parsing de logs + visualização de alertas     | [Log Analysis with ELK Stack](https://github.com/mari-ww/log-analysis-elk-stack)                         |
-| Linux CLI & manipulação de arquivos de log    | Usado em todos os projetos (base operacional)                                                            |
-| Detecção prática de ameaças com análise e resposta | [SOC Lab Simulations (3 projetos em 1)](https://github.com/mari-ww/soc-lab-simulations)                  |                               |
-
+| Limpeza e manipulação de dados (Python, Pandas)| [Dashboard de Vendas - Olist](https://github.com/mari-ww/Olist_Sales_Analysis_Dashboard)                 |
+| Visualização interativa (Plotly, Matplotlib, Seaborn)| [Dashboard de Vendas - Olist](https://github.com/mari-ww/Olist_Sales_Analysis_Dashboard)         |
+| SQL e processamento de dados                 | [SQL Query Processor](https://github.com/mari-ww/sql-query-processor-bd)                                   |
+| Sistemas de recomendação                     | [Sistema de Recomendação de Livros](https://github.com/mari-ww/martela)                                    |
+| Análise exploratória de dados (EDA)          | [EDA 20 Fonts Classification](https://github.com/mari-ww/EDA_20_Fonts_Classification)                     |
+| Machine Learning básico (PyTorch)            | [Treinamento de Classificação de Imagens](https://github.com/mari-ww/20_Fonts_Classification_PyTorch)    |
+| Python para automação e análise de dados     | Usado em todos os projetos                                                                                 |
+| Visualização de métricas e insights          | Dashboards, gráficos interativos, plots exploratórios                                                     |
 
 ---
 
 ## 🛠 Tools
 
-### SIEM & Monitoring  
-[![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)]()
-[![Wazuh](https://img.shields.io/badge/-Wazuh-026e00?&style=for-the-badge&logo=Wazuh&logoColor=white)]()
-[![Suricata](https://img.shields.io/badge/-Suricata-f13c20?&style=for-the-badge&logoColor=white)]()
-
-### Systems & Scripting  
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black)]()
+### Data Analysis & Visualization  
 [![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white)]()
-[![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?&style=for-the-badge&logo=matplotlib&logoColor=white)]()
+[![Seaborn](https://img.shields.io/badge/-Seaborn-1A3449?&style=for-the-badge&logoColor=white)]()
+[![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?&style=for-the-badge&logo=plotly&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&style=for-the-badge&logo=PyTorch&logoColor=white)]()
+
+---
+
+## 📂 Projects
+
+### 1️⃣ [Dashboard de Vendas - Olist](https://github.com/mari-ww/Olist_Sales_Analysis_Dashboard)
+- Dashboard interativo de vendas utilizando Python e Plotly
+- Análise de vendas por mês, categoria e região
+- Visualizações interativas para insights de negócio
+
+### 2️⃣ [SQL Query Processor](https://github.com/mari-ww/sql-query-processor-bd)
+- Desenvolvimento de interpretador de queries SQL em Python
+- Demonstra conhecimento em SQL, processamento e análise de dados
+
+### 3️⃣ [Sistema de Recomendação de Livros](https://github.com/mari-ww/martela)
+- Sistema de recomendação de livros em Python
+- Manipulação de dados e lógica de recomendação personalizada
+
+### 4️⃣ [EDA 20 Fonts Classification](https://github.com/mari-ww/EDA_20_Fonts_Classification)
+- Análise exploratória de dataset de classificação de 20 fontes
+- Limpeza, manipulação e visualização de dados em notebooks
+
+### 5️⃣ [Treinamento de Classificação de Imagens (PyTorch)](https://github.com/mari-ww/20_Fonts_Classification_PyTorch)
+- Modelo supervisionado de classificação de imagens usando PyTorch
+- Pré-processamento, treinamento e avaliação de modelo de ML
 
 ---
 
 ## 📜 Certifications
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/b78574ac-fea8-49d8-9f44-3b60161ccc4c/print)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe_(in_progress)-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white)]()
-
----
-
-## 🚧 Extras Acadêmicos  
-- Projeto de Redes com Cisco Packet Tracer (LAN, OSPF, RIP)  
-- Gerador Blockchain + Sistema Financeiro (Clojure)  
