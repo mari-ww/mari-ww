@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B7EC8&height=180&section=header&text=Mariana%20Carneiro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=220&section=header&text=Mariana%20Carneiro&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B7EC8&center=true&vCenter=true&width=650&lines=Junior+Software+Engineer;Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;Building+things+I+would+actually+use+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6EC8FF&center=true&vCenter=true&width=700&lines=Junior+Software+Engineer;Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;Building+things+I+would+actually+use+%E2%9C%A8" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 </p>
 
 <p align="center">
@@ -14,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mariana%20Carneiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marianacbm2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-8B7EC8?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-6EC8FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -38,7 +42,7 @@ mari = {
         "Backend Architecture",
         "AI Applications"
     ],
-    "fun_fact": "I like building software around things I genuinely enjoy. 🎮✍️"
+    "fun_fact": "I like building software around things I genuinely enjoy. 🎮✍️🐈"
 }
 ```
 
@@ -67,7 +71,7 @@ Currently looking for **Junior Software Engineer / Backend Developer opportuniti
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-8B7EC8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-6EC8FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -163,17 +167,6 @@ A full-stack application for managing income, expenses, categories and personal 
 
 ---
 
-## 💡 What I Like Building
-
-🎮 Games & gamification systems
-✍️ Tools for writers and creative projects
-📋 Productivity applications
-🤖 AI-powered applications
-🌐 Web applications & APIs
-🗄️ Backend systems and databases
-
----
-
 ## 🌐 Languages
 
 <p align="center">
@@ -196,16 +189,12 @@ A full-stack application for managing income, expenses, categories and personal 
     <img src="https://img.shields.io/badge/LinkedIn-Mariana%20Carneiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marianacbm2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marianacbm2003%40gmail.com-8B7EC8?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-marianacbm2003%40gmail.com-6EC8FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building things I would actually use. ✨</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B7EC8&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=100&section=footer" />
 </p>
