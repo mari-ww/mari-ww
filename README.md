@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <a href="https://mari-ww.github.io/my-portifolio/">
+    <img src="https://img.shields.io/badge/%E2%9C%A8%20VISIT%20MY%20PORTFOLIO-0B1F3A?style=for-the-badge&labelColor=6EC8FF&color=0B1F3A" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 </p>
 
